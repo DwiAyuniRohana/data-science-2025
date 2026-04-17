@@ -1,1 +1,1 @@
-# data-science-2025
+Perkenalkan saya Dwi Ayuni Rohana dari prodi Informatika angkatan 2025, jalur konversi. Tujuan saya belajar ini adalah untuk memahami konsep dasarnya, meningkatkan kemampuan dalam mengolah dan menganalisis data, serta mempersiapkan diri agar dapat menerapkannya dalam menyelesaikan permasalahan secara lebih efektif di dunia nyata.
