@@ -44,40 +44,32 @@ Beberapa tools dan library yang digunakan selama proses pembelajaran Data Scienc
 
 5. Cara Menjalankan Notebook
 
-Menjalankan Secara Lokal
+- Menjalankan Secara Lokal
 
 1. Install Python versi terbaru.
 2. Install Jupyter Notebook atau Anaconda.
 3. Clone repository:
-
 bash
 git clone https://github.com/DwiAyuniRohana/data-science-2025.git
 
-
-4. Masuk ke folder repository:
-
+- Masuk ke folder repository:
 bash
 cd nama-repository
 
-
-5. Jalankan Jupyter Notebook:
+- Jalankan Jupyter Notebook:
 bash
 jupyter notebook
 
-
-6. Buka notebook yang ingin dijalankan.
+- Buka notebook yang ingin dijalankan.
 
 ### Menjalankan Menggunakan Google Colab
 
 Setiap notebook dapat dibuka melalui Google Colab dengan memilih opsi:
 
-Open in Colab
+Open in Colab atau menggunakan link yang tersedia pada masing-masing notebook.
 
-atau menggunakan link yang tersedia pada masing-masing notebook.
 
----
-
-## 6. Kesimpulan Pembelajaran Data Science Pertemuan 1–7
+## Kesimpulan Pembelajaran Data Science Pertemuan 1–7
 
 Selama tujuh pertemuan pembelajaran Data Science, saya memperoleh pemahaman mengenai tahapan pengolahan data mulai dari pengenalan konsep Data Science, pemrograman Python, manipulasi data menggunakan Pandas dan NumPy, proses pembersihan data, eksplorasi data, hingga visualisasi data menggunakan Matplotlib dan Seaborn.
 
