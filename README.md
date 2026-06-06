@@ -2,11 +2,11 @@ Data Science
 
 1. Identitas Mahasiswa
 
-Nama Lengkap : Dwi Ayuni Rohana
-NIM : 250401020173
-Kelas : IF405
-Angkatan : 2025/2026 
-Program Studi : Informatika
+* Nama Lengkap: Dwi Ayuni Rohana
+* NIM: 250401020173
+* Kelas: IF405
+* Angkatan: 2025/2026
+* Program Studi: Informatika
 
 
 2. Deskripsi Singkat Repository
