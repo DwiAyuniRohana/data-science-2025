@@ -4,6 +4,7 @@ Data Science
 
 Nama Lengkap : Dwi Ayuni Rohana
 NIM : 250401020173
+Kelas : IF405
 Angkatan : 2025/2026 
 Program Studi : Informatika
 
@@ -18,16 +19,15 @@ Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 sampai Pertem
 
 3. Daftar Pertemuan dan Topik
 
-| Pertemuan   | Topik                                           | Link Notebook               |
-| ----------- | ----------------------------------------------- | --------------------------- |
-| Pertemuan 1 | Pengenalan Data Science dan Python Dasar        | [Link Notebook Pertemuan 1] |
-| Pertemuan 2 | NumPy dan Operasi Array                         | [Link Notebook Pertemuan 2] |
-| Pertemuan 3 | Pandas untuk Manipulasi Data                    | [Link Notebook Pertemuan 3] |
-| Pertemuan 4 | Data Cleaning dan Data Preparation              | [Link Notebook Pertemuan 4] |
-| Pertemuan 5 | Exploratory Data Analysis (EDA)                 | [Link Notebook Pertemuan 5] |
-| Pertemuan 6 | Visualisasi Data dengan Matplotlib dan Seaborn  | [Link Notebook Pertemuan 6] |
-| Pertemuan 7 | Dashboard Visualisasi Data dan Analisis Dataset | [Link Notebook Pertemuan 7] |
-
+| Pertemuan   | Topik                                        | Link Notebook |
+|-------------|----------------------------------------------|---------------|
+| Pertemuan 1 | Pengenalan Data Science                      | [Notebook Pertemuan 1](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan1_DwiAyuniRohana_250401020173.ipynb) |
+| Pertemuan 2 | Struktur Data Python, NumPy dan Pandas       | [Notebook Pertemuan 2](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan2_DwiAyuniRohana_250401020173.ipynb) |
+| Pertemuan 3 | Data Cleaning: Missing, Outlier & Ekstraksi  | [Notebook Pertemuan 3](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan3_DwiAyuniRohana_250401020173.ipynb) |
+| Pertemuan 4 | Statistika Dasar & Analisis Data             | [Notebook Pertemuan 4](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan4_DwiAyuni_250401020173.ipynb) |
+| Pertemuan 5 | Visualisasi Data                             | [Notebook Pertemuan 5](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan5_DwiAyuniRohana_250401020173.ipynb) |
+| Pertemuan 6 | Persiapan Data                               | [Notebook Pertemuan 6](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan6_DwiAyuniRohana_250401020173.ipynb) |
+| Pertemuan 7 | Pengantar Machine Learning: Regresi Linier   | [Notebook Pertemuan 7](https://github.com/DwiAyuniRohana/data-science-2025/blob/main/Pertemuan7_DwiAyuniRohana_250401020173.ipynb) |
 4. Tools dan Library yang Digunakan
 
 Beberapa tools dan library yang digunakan selama proses pembelajaran Data Science antara lain:
