@@ -77,7 +77,7 @@ atau menggunakan link yang tersedia pada masing-masing notebook.
 
 ---
 
-## 6. Kesimpulan Umum Perjalanan Belajar Data Science Pertemuan 1–7
+## 6. Kesimpulan Pembelajaran Data Science Pertemuan 1–7
 
 Selama tujuh pertemuan pembelajaran Data Science, saya memperoleh pemahaman mengenai tahapan pengolahan data mulai dari pengenalan konsep Data Science, pemrograman Python, manipulasi data menggunakan Pandas dan NumPy, proses pembersihan data, eksplorasi data, hingga visualisasi data menggunakan Matplotlib dan Seaborn.
 
